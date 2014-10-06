@@ -21,3 +21,8 @@ And SSH into the VM:
 ```
 vagrant ssh
 ```
+
+## Usage
+
+Once VM is created, place your files under `share` directory, its going to
+be linked into `/playground` on VM's filesystem.
